@@ -1,0 +1,63 @@
+{
+  "name": "pakistan-holidays",
+  "version": "1.0.0",
+  "description": "Official and gazetted public, bank, and provincial holidays in Pakistan with verified Ruet-e-Hilal lunar dates and business days calculator.",
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "bin": {
+    "pakistan-holidays": "./bin/cli.js"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs"
+    },
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "dist",
+    "bin",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsup && node scripts/export-json.js",
+    "test": "node --test test/*.test.js || node --loader tts/register test/*.test.ts || npm run test:ts",
+    "test:ts": "node --import tsx/esm test/holidays.test.ts",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UsmanGhias/pakistan-holidays.git"
+  },
+  "keywords": [
+    "pakistan",
+    "pakistan-holidays",
+    "pk-holidays",
+    "holidays",
+    "ruet-e-hilal",
+    "eid",
+    "ramadan",
+    "islamic-calendar",
+    "bank-holidays",
+    "public-holidays",
+    "working-days",
+    "business-days",
+    "pakistan-calendar",
+    "npx"
+  ],
+  "author": "Usman Ghias <https://usmanghias.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UsmanGhias/pakistan-holidays/issues"
+  },
+  "homepage": "https://github.com/UsmanGhias/pakistan-holidays#readme",
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "tsup": "^9.0.0",
+    "typescript": "^5.8.2"
+  }
+}

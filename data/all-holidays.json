@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "pk-bank-jan-2024",
+    "name": "Bank Holiday (Annual Closing)",
+    "nameUrdu": "بینک تعطیل (سالانہ اختتام)",
+    "date": "2024-01-01",
+    "year": 2024,
+    "type": "bank",
+    "category": "banking",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "State Bank of Pakistan annual accounts closing. Banks are closed to the public."
+  },
+  {
+    "id": "pk-kashmir-2024",
+    "name": "Kashmir Solidarity Day",
+    "nameUrdu": "یوم یکجہتی کشمیر",
+    "date": "2024-02-05",
+    "year": 2024,
+    "type": "public",
+    "category": "national",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "National solidarity day with the people of Kashmir."
+  },
+  {
+    "id": "pk-ramadan-bank-2024",
+    "name": "Bank Holiday (1st Ramadan)",
+    "nameUrdu": "بینک تعطیل (یکم رمضان)",
+    "date": "2024-03-12",
+    "year": 2024,
+    "type": "bank",
+    "category": "banking",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Deduction of Zakat bank holiday for financial institutions."
+  },
+  {
+    "id": "pk-day-2024",
+    "name": "Pakistan Day",
+    "nameUrdu": "یوم پاکستان",
+    "date": "2024-03-23",
+    "year": 2024,
+    "type": "public",
+    "category": "national",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Commemoration of the 1940 Lahore Resolution and the 1956 Constitution."
+  },
+  {
+    "id": "pk-za-bhutto-2024",
+    "name": "Death Anniversary of Zulfikar Ali Bhutto",
+    "nameUrdu": "برسی ذوالفقار علی بھٹو",
+    "date": "2024-04-04",
+    "year": 2024,
+    "type": "provincial",
+    "category": "cultural",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "PK-SD"
+    ],
+    "description": "Provincial public holiday gazetted by the Government of Sindh."
+  },
+  {
+    "id": "pk-eid-fitr-1-2024",
+    "name": "Eid-ul-Fitr (Day 1)",
+    "nameUrdu": "عید الفطر (پہلا دن)",
+    "date": "2024-04-10",
+    "year": 2024,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Federal holiday marking the end of Ramadan."
+  },
+  {
+    "id": "pk-eid-fitr-2-2024",
+    "name": "Eid-ul-Fitr (Day 2)",
+    "nameUrdu": "عید الفطر (دوسرا دن)",
+    "date": "2024-04-11",
+    "year": 2024,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Federal holiday marking Eid-ul-Fitr celebration."
+  },
+  {
+    "id": "pk-eid-fitr-3-2024",
+    "name": "Eid-ul-Fitr (Day 3)",
+    "nameUrdu": "عید الفطر (تیسرا دن)",
+    "date": "2024-04-12",
+    "year": 2024,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Federal holiday marking Eid-ul-Fitr celebration."
+  },
+  {
+    "id": "pk-eid-fitr-4-2024",
+    "name": "Eid-ul-Fitr (Day 4)",
+    "nameUrdu": "عید الفطر (چوتھا دن)",
+    "date": "2024-04-13",
+    "year": 2024,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Extended Eid-ul-Fitr public holiday notified by Cabinet Division."
+  },
+  {
+    "id": "pk-labour-2024",
+    "name": "Labour Day",
+    "nameUrdu": "یوم مزدور",
+    "date": "2024-05-01",
+    "year": 2024,
+    "type": "public",
+    "category": "national",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "International Workers Day public holiday."
+  },
+  {
+    "id": "pk-eid-adha-1-2024",
+    "name": "Eid-ul-Adha (Day 1)",
+    "nameUrdu": "عید الاضحیٰ (پہلا دن)",
+    "date": "2024-06-17",
+    "year": 2024,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Feast of Sacrifice public holiday."
+  },
+  {
+    "id": "pk-eid-adha-2-2024",
+    "name": "Eid-ul-Adha (Day 2)",
+    "nameUrdu": "عید الاضحیٰ (دوسرا دن)",
+    "date": "2024-06-18",
+    "year": 2024,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Eid-ul-Adha second day federal holiday."
+  },
+  {
+    "id": "pk-eid-adha-3-2024",
+    "name": "Eid-ul-Adha (Day 3)",
+    "nameUrdu": "عید الاضحیٰ (تیسرا دن)",
+    "date": "2024-06-19",
+    "year": 2024,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Eid-ul-Adha third day federal holiday."
+  },
+  {
+    "id": "pk-bank-jul-2024",
+    "name": "Bank Holiday (Half-Yearly Closing)",
+    "nameUrdu": "بینک تعطیل (ششماہی اختتام)",
+    "date": "2024-07-01",
+    "year": 2024,
+    "type": "bank",
+    "category": "banking",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "State Bank of Pakistan half-yearly accounts closing."
+  },
+  {
+    "id": "pk-ashura-1-2024",
+    "name": "Ashura (9th Muharram)",
+    "nameUrdu": "تاسوعا (۹ محرم الحرام)",
+    "date": "2024-07-16",
+    "year": 2024,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "9th Muharram sacred mourning day public holiday."
+  },
+  {
+    "id": "pk-ashura-2-2024",
+    "name": "Ashura (10th Muharram)",
+    "nameUrdu": "عاشورہ (۱۰ محرم الحرام)",
+    "date": "2024-07-17",
+    "year": 2024,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "10th Muharram Day of Ashura national public holiday."
+  },
+  {
+    "id": "pk-independence-2024",
+    "name": "Independence Day",
+    "nameUrdu": "جشن آزادی",
+    "date": "2024-08-14",
+    "year": 2024,
+    "type": "public",
+    "category": "national",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Celebration of Pakistan Independence (14 August 1947)."
+  },
+  {
+    "id": "pk-milad-2024",
+    "name": "Eid Milad-un-Nabi (12 Rabi-ul-Awwal)",
+    "nameUrdu": "عید میلاد النبی ﷺ",
+    "date": "2024-09-17",
+    "year": 2024,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Birthday of the Prophet Muhammad ﷺ."
+  },
+  {
+    "id": "pk-iqbal-2024",
+    "name": "Iqbal Day",
+    "nameUrdu": "یوم اقبال",
+    "date": "2024-11-09",
+    "year": 2024,
+    "type": "public",
+    "category": "national",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Birthday of national poet Allama Muhammad Iqbal."
+  },
+  {
+    "id": "pk-quaid-xmas-2024",
+    "name": "Quaid-e-Azam Day & Christmas",
+    "nameUrdu": "یوم قائد اعظم اور کرسمس",
+    "date": "2024-12-25",
+    "year": 2024,
+    "type": "public",
+    "category": "national",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Birthday of Quaid-e-Azam Muhammad Ali Jinnah and Christmas celebrations."
+  },
+  {
+    "id": "pk-xmas-day-after-2024",
+    "name": "Day After Christmas",
+    "nameUrdu": "کرسمس کا اگلا دن",
+    "date": "2024-12-26",
+    "year": 2024,
+    "type": "optional",
+    "category": "religious",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Gazetted optional holiday for the Christian community."
+  },
+  {
+    "id": "pk-benazir-2024",
+    "name": "Shahadat of Mohtarma Benazir Bhutto",
+    "nameUrdu": "شہادت محترمہ بے نظیر بھٹو",
+    "date": "2024-12-27",
+    "year": 2024,
+    "type": "provincial",
+    "category": "cultural",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "PK-SD"
+    ],
+    "description": "Provincial public holiday gazetted by the Government of Sindh."
+  },
+  {
+    "id": "pk-bank-jan-2025",
+    "name": "Bank Holiday (Annual Closing)",
+    "nameUrdu": "بینک تعطیل (سالانہ اختتام)",
+    "date": "2025-01-01",
+    "year": 2025,
+    "type": "bank",
+    "category": "banking",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "State Bank of Pakistan annual accounts closing."
+  },
+  {
+    "id": "pk-kashmir-2025",
+    "name": "Kashmir Solidarity Day",
+    "nameUrdu": "یوم یکجہتی کشمیر",
+    "date": "2025-02-05",
+    "year": 2025,
+    "type": "public",
+    "category": "national",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "National solidarity day with the people of Kashmir."
+  },
+  {
+    "id": "pk-ramadan-bank-2025",
+    "name": "Bank Holiday (1st Ramadan)",
+    "nameUrdu": "بینک تعطیل (یکم رمضان)",
+    "date": "2025-03-02",
+    "year": 2025,
+    "type": "bank",
+    "category": "banking",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "State Bank of Pakistan Zakat deduction closing."
+  },
+  {
+    "id": "pk-day-2025",
+    "name": "Pakistan Day",
+    "nameUrdu": "یوم پاکستان",
+    "date": "2025-03-23",
+    "year": 2025,
+    "type": "public",
+    "category": "national",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Commemoration of the 1940 Lahore Resolution."
+  },
+  {
+    "id": "pk-eid-fitr-1-2025",
+    "name": "Eid-ul-Fitr (Day 1)",
+    "nameUrdu": "عید الفطر (پہلا دن)",
+    "date": "2025-03-31",
+    "year": 2025,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Federal holiday marking the end of Ramadan."
+  },
+  {
+    "id": "pk-eid-fitr-2-2025",
+    "name": "Eid-ul-Fitr (Day 2)",
+    "nameUrdu": "عید الفطر (دوسرا دن)",
+    "date": "2025-04-01",
+    "year": 2025,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Federal holiday marking Eid-ul-Fitr celebration."
+  },
+  {
+    "id": "pk-eid-fitr-3-2025",
+    "name": "Eid-ul-Fitr (Day 3)",
+    "nameUrdu": "عید الفطر (تیسرا دن)",
+    "date": "2025-04-02",
+    "year": 2025,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Federal holiday marking Eid-ul-Fitr celebration."
+  },
+  {
+    "id": "pk-za-bhutto-2025",
+    "name": "Death Anniversary of Zulfikar Ali Bhutto",
+    "nameUrdu": "برسی ذوالفقار علی بھٹو",
+    "date": "2025-04-04",
+    "year": 2025,
+    "type": "provincial",
+    "category": "cultural",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "PK-SD"
+    ],
+    "description": "Provincial public holiday gazetted by the Government of Sindh."
+  },
+  {
+    "id": "pk-labour-2025",
+    "name": "Labour Day",
+    "nameUrdu": "یوم مزدور",
+    "date": "2025-05-01",
+    "year": 2025,
+    "type": "public",
+    "category": "national",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "International Workers Day public holiday."
+  },
+  {
+    "id": "pk-eid-adha-1-2025",
+    "name": "Eid-ul-Adha (Day 1)",
+    "nameUrdu": "عید الاضحیٰ (پہلا دن)",
+    "date": "2025-06-06",
+    "year": 2025,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Feast of Sacrifice public holiday."
+  },
+  {
+    "id": "pk-eid-adha-2-2025",
+    "name": "Eid-ul-Adha (Day 2)",
+    "nameUrdu": "عید الاضحیٰ (دوسرا دن)",
+    "date": "2025-06-07",
+    "year": 2025,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Eid-ul-Adha second day federal holiday."
+  },
+  {
+    "id": "pk-eid-adha-3-2025",
+    "name": "Eid-ul-Adha (Day 3)",
+    "nameUrdu": "عید الاضحیٰ (تیسرا دن)",
+    "date": "2025-06-08",
+    "year": 2025,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Eid-ul-Adha third day federal holiday."
+  },
+  {
+    "id": "pk-bank-jul-2025",
+    "name": "Bank Holiday (Half-Yearly Closing)",
+    "nameUrdu": "بینک تعطیل (ششماہی اختتام)",
+    "date": "2025-07-01",
+    "year": 2025,
+    "type": "bank",
+    "category": "banking",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "State Bank of Pakistan half-yearly accounts closing."
+  },
+  {
+    "id": "pk-ashura-1-2025",
+    "name": "Ashura (9th Muharram)",
+    "nameUrdu": "تاسوعا (۹ محرم الحرام)",
+    "date": "2025-07-05",
+    "year": 2025,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "9th Muharram public holiday."
+  },
+  {
+    "id": "pk-ashura-2-2025",
+    "name": "Ashura (10th Muharram)",
+    "nameUrdu": "عاشورہ (۱۰ محرم الحرام)",
+    "date": "2025-07-06",
+    "year": 2025,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "10th Muharram Day of Ashura national public holiday."
+  },
+  {
+    "id": "pk-independence-2025",
+    "name": "Independence Day",
+    "nameUrdu": "جشن آزادی",
+    "date": "2025-08-14",
+    "year": 2025,
+    "type": "public",
+    "category": "national",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "National Independence Day celebration."
+  },
+  {
+    "id": "pk-milad-2025",
+    "name": "Eid Milad-un-Nabi (12 Rabi-ul-Awwal)",
+    "nameUrdu": "عید میلاد النبی ﷺ",
+    "date": "2025-09-05",
+    "year": 2025,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Birthday of the Prophet Muhammad ﷺ."
+  },
+  {
+    "id": "pk-iqbal-2025",
+    "name": "Iqbal Day",
+    "nameUrdu": "یوم اقبال",
+    "date": "2025-11-09",
+    "year": 2025,
+    "type": "public",
+    "category": "national",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Birthday of national philosopher Allama Iqbal."
+  },
+  {
+    "id": "pk-quaid-xmas-2025",
+    "name": "Quaid-e-Azam Day & Christmas",
+    "nameUrdu": "یوم قائد اعظم اور کرسمس",
+    "date": "2025-12-25",
+    "year": 2025,
+    "type": "public",
+    "category": "national",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Quaid-e-Azam birthday and Christmas holiday."
+  },
+  {
+    "id": "pk-xmas-day-after-2025",
+    "name": "Day After Christmas",
+    "nameUrdu": "کرسمس کا اگلا دن",
+    "date": "2025-12-26",
+    "year": 2025,
+    "type": "optional",
+    "category": "religious",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Gazetted optional holiday for the Christian community."
+  },
+  {
+    "id": "pk-benazir-2025",
+    "name": "Shahadat of Mohtarma Benazir Bhutto",
+    "nameUrdu": "شہادت محترمہ بے نظیر بھٹو",
+    "date": "2025-12-27",
+    "year": 2025,
+    "type": "provincial",
+    "category": "cultural",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "PK-SD"
+    ],
+    "description": "Sindh provincial government public holiday."
+  },
+  {
+    "id": "pk-bank-jan-2026",
+    "name": "Bank Holiday (Annual Closing)",
+    "nameUrdu": "بینک تعطیل (سالانہ اختتام)",
+    "date": "2026-01-01",
+    "year": 2026,
+    "type": "bank",
+    "category": "banking",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "State Bank of Pakistan annual accounts closing."
+  },
+  {
+    "id": "pk-kashmir-2026",
+    "name": "Kashmir Solidarity Day",
+    "nameUrdu": "یوم یکجہتی کشمیر",
+    "date": "2026-02-05",
+    "year": 2026,
+    "type": "public",
+    "category": "national",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "National solidarity day with the people of Kashmir."
+  },
+  {
+    "id": "pk-ramadan-bank-2026",
+    "name": "Bank Holiday (1st Ramadan)",
+    "nameUrdu": "بینک تعطیل (یکم رمضان)",
+    "date": "2026-02-19",
+    "year": 2026,
+    "type": "bank",
+    "category": "banking",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "State Bank of Pakistan Zakat deduction closing."
+  },
+  {
+    "id": "pk-eid-fitr-1-2026",
+    "name": "Eid-ul-Fitr (Day 1)",
+    "nameUrdu": "عید الفطر (پہلا دن)",
+    "date": "2026-03-20",
+    "year": 2026,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Federal holiday celebrating the end of Ramadan."
+  },
+  {
+    "id": "pk-eid-fitr-2-2026",
+    "name": "Eid-ul-Fitr (Day 2)",
+    "nameUrdu": "عید الفطر (دوسرا دن)",
+    "date": "2026-03-21",
+    "year": 2026,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Federal Eid-ul-Fitr second day celebration."
+  },
+  {
+    "id": "pk-eid-fitr-3-2026",
+    "name": "Eid-ul-Fitr (Day 3)",
+    "nameUrdu": "عید الفطر (تیسرا دن)",
+    "date": "2026-03-22",
+    "year": 2026,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Federal Eid-ul-Fitr third day celebration."
+  },
+  {
+    "id": "pk-day-2026",
+    "name": "Pakistan Day",
+    "nameUrdu": "یوم پاکستان",
+    "date": "2026-03-23",
+    "year": 2026,
+    "type": "public",
+    "category": "national",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Commemoration of the 1940 Lahore Resolution."
+  },
+  {
+    "id": "pk-za-bhutto-2026",
+    "name": "Death Anniversary of Zulfikar Ali Bhutto",
+    "nameUrdu": "برسی ذوالفقار علی بھٹو",
+    "date": "2026-04-04",
+    "year": 2026,
+    "type": "provincial",
+    "category": "cultural",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "PK-SD"
+    ],
+    "description": "Sindh provincial government public holiday."
+  },
+  {
+    "id": "pk-labour-2026",
+    "name": "Labour Day",
+    "nameUrdu": "یوم مزدور",
+    "date": "2026-05-01",
+    "year": 2026,
+    "type": "public",
+    "category": "national",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "International Workers Day public holiday."
+  },
+  {
+    "id": "pk-eid-adha-1-2026",
+    "name": "Eid-ul-Adha (Day 1)",
+    "nameUrdu": "عید الاضحیٰ (پہلا دن)",
+    "date": "2026-05-27",
+    "year": 2026,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Feast of Sacrifice public holiday."
+  },
+  {
+    "id": "pk-eid-adha-2-2026",
+    "name": "Eid-ul-Adha (Day 2)",
+    "nameUrdu": "عید الاضحیٰ (دوسرا دن)",
+    "date": "2026-05-28",
+    "year": 2026,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Eid-ul-Adha second day federal holiday."
+  },
+  {
+    "id": "pk-eid-adha-3-2026",
+    "name": "Eid-ul-Adha (Day 3)",
+    "nameUrdu": "عید الاضحیٰ (تیسرا دن)",
+    "date": "2026-05-29",
+    "year": 2026,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Eid-ul-Adha third day federal holiday."
+  },
+  {
+    "id": "pk-ashura-1-2026",
+    "name": "Ashura (9th Muharram)",
+    "nameUrdu": "تاسوعا (۹ محرم الحرام)",
+    "date": "2026-06-24",
+    "year": 2026,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "9th Muharram sacred mourning day public holiday."
+  },
+  {
+    "id": "pk-ashura-2-2026",
+    "name": "Ashura (10th Muharram)",
+    "nameUrdu": "عاشورہ (۱۰ محرم الحرام)",
+    "date": "2026-06-25",
+    "year": 2026,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "10th Muharram Day of Ashura national public holiday."
+  },
+  {
+    "id": "pk-bank-jul-2026",
+    "name": "Bank Holiday (Half-Yearly Closing)",
+    "nameUrdu": "بینک تعطیل (ششماہی اختتام)",
+    "date": "2026-07-01",
+    "year": 2026,
+    "type": "bank",
+    "category": "banking",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "State Bank of Pakistan half-yearly accounts closing."
+  },
+  {
+    "id": "pk-independence-2026",
+    "name": "Independence Day",
+    "nameUrdu": "جشن آزادی",
+    "date": "2026-08-14",
+    "year": 2026,
+    "type": "public",
+    "category": "national",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Celebration of 79th Independence Day of Pakistan."
+  },
+  {
+    "id": "pk-milad-2026",
+    "name": "Eid Milad-un-Nabi (12 Rabi-ul-Awwal)",
+    "nameUrdu": "عید میلاد النبی ﷺ",
+    "date": "2026-08-25",
+    "year": 2026,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Birthday of the Prophet Muhammad ﷺ."
+  },
+  {
+    "id": "pk-iqbal-2026",
+    "name": "Iqbal Day",
+    "nameUrdu": "یوم اقبال",
+    "date": "2026-11-09",
+    "year": 2026,
+    "type": "public",
+    "category": "national",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "National holiday honoring Dr. Allama Muhammad Iqbal."
+  },
+  {
+    "id": "pk-quaid-xmas-2026",
+    "name": "Quaid-e-Azam Day & Christmas",
+    "nameUrdu": "یوم قائد اعظم اور کرسمس",
+    "date": "2026-12-25",
+    "year": 2026,
+    "type": "public",
+    "category": "national",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Birthday of founder Quaid-e-Azam Muhammad Ali Jinnah and Christmas."
+  },
+  {
+    "id": "pk-xmas-day-after-2026",
+    "name": "Day After Christmas",
+    "nameUrdu": "کرسمس کا اگلا دن",
+    "date": "2026-12-26",
+    "year": 2026,
+    "type": "optional",
+    "category": "religious",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Gazetted optional holiday for the Christian community."
+  },
+  {
+    "id": "pk-benazir-2026",
+    "name": "Shahadat of Mohtarma Benazir Bhutto",
+    "nameUrdu": "شہادت محترمہ بے نظیر بھٹو",
+    "date": "2026-12-27",
+    "year": 2026,
+    "type": "provincial",
+    "category": "cultural",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "PK-SD"
+    ],
+    "description": "Sindh provincial government public holiday."
+  },
+  {
+    "id": "pk-bank-jan-2027",
+    "name": "Bank Holiday (Annual Closing)",
+    "nameUrdu": "بینک تعطیل (سالانہ اختتام)",
+    "date": "2027-01-01",
+    "year": 2027,
+    "type": "bank",
+    "category": "banking",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "State Bank of Pakistan annual accounts closing."
+  },
+  {
+    "id": "pk-kashmir-2027",
+    "name": "Kashmir Solidarity Day",
+    "nameUrdu": "یوم یکجہتی کشمیر",
+    "date": "2027-02-05",
+    "year": 2027,
+    "type": "public",
+    "category": "national",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "National solidarity day with the people of Kashmir."
+  },
+  {
+    "id": "pk-ramadan-bank-2027",
+    "name": "Bank Holiday (1st Ramadan)",
+    "nameUrdu": "بینک تعطیل (یکم رمضان)",
+    "date": "2027-02-08",
+    "year": 2027,
+    "type": "bank",
+    "category": "banking",
+    "isLunar": true,
+    "isConfirmed": false,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Tentative 1st Ramadan bank holiday (Subject to Ruet-e-Hilal moon sighting)."
+  },
+  {
+    "id": "pk-eid-fitr-1-2027",
+    "name": "Eid-ul-Fitr (Day 1)",
+    "nameUrdu": "عید الفطر (پہلا دن)",
+    "date": "2027-03-10",
+    "year": 2027,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": false,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Tentative Eid-ul-Fitr public holiday (Subject to Ruet-e-Hilal moon sighting)."
+  },
+  {
+    "id": "pk-eid-fitr-2-2027",
+    "name": "Eid-ul-Fitr (Day 2)",
+    "nameUrdu": "عید الفطر (دوسرا دن)",
+    "date": "2027-03-11",
+    "year": 2027,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": false,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Tentative Eid-ul-Fitr public holiday (Subject to Ruet-e-Hilal moon sighting)."
+  },
+  {
+    "id": "pk-eid-fitr-3-2027",
+    "name": "Eid-ul-Fitr (Day 3)",
+    "nameUrdu": "عید الفطر (تیسرا دن)",
+    "date": "2027-03-12",
+    "year": 2027,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": false,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Tentative Eid-ul-Fitr public holiday (Subject to Ruet-e-Hilal moon sighting)."
+  },
+  {
+    "id": "pk-day-2027",
+    "name": "Pakistan Day",
+    "nameUrdu": "یوم پاکستان",
+    "date": "2027-03-23",
+    "year": 2027,
+    "type": "public",
+    "category": "national",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Commemoration of the 1940 Lahore Resolution."
+  },
+  {
+    "id": "pk-labour-2027",
+    "name": "Labour Day",
+    "nameUrdu": "یوم مزدور",
+    "date": "2027-05-01",
+    "year": 2027,
+    "type": "public",
+    "category": "national",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "International Workers Day public holiday."
+  },
+  {
+    "id": "pk-eid-adha-1-2027",
+    "name": "Eid-ul-Adha (Day 1)",
+    "nameUrdu": "عید الاضحیٰ (پہلا دن)",
+    "date": "2027-05-17",
+    "year": 2027,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": false,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Tentative Eid-ul-Adha feast of sacrifice (Subject to moon sighting)."
+  },
+  {
+    "id": "pk-eid-adha-2-2027",
+    "name": "Eid-ul-Adha (Day 2)",
+    "nameUrdu": "عید الاضحیٰ (دوسرا دن)",
+    "date": "2027-05-18",
+    "year": 2027,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": false,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Tentative Eid-ul-Adha federal holiday."
+  },
+  {
+    "id": "pk-eid-adha-3-2027",
+    "name": "Eid-ul-Adha (Day 3)",
+    "nameUrdu": "عید الاضحیٰ (تیسرا دن)",
+    "date": "2027-05-19",
+    "year": 2027,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": false,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Tentative Eid-ul-Adha federal holiday."
+  },
+  {
+    "id": "pk-ashura-1-2027",
+    "name": "Ashura (9th Muharram)",
+    "nameUrdu": "تاسوعا (۹ محرم الحرام)",
+    "date": "2027-06-14",
+    "year": 2027,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": false,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Tentative 9th Muharram sacred mourning holiday."
+  },
+  {
+    "id": "pk-ashura-2-2027",
+    "name": "Ashura (10th Muharram)",
+    "nameUrdu": "عاشورہ (۱۰ محرم الحرام)",
+    "date": "2027-06-15",
+    "year": 2027,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": false,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Tentative 10th Muharram Day of Ashura national holiday."
+  },
+  {
+    "id": "pk-bank-jul-2027",
+    "name": "Bank Holiday (Half-Yearly Closing)",
+    "nameUrdu": "بینک تعطیل (ششماہی اختتام)",
+    "date": "2027-07-01",
+    "year": 2027,
+    "type": "bank",
+    "category": "banking",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "State Bank of Pakistan half-yearly accounts closing."
+  },
+  {
+    "id": "pk-independence-2027",
+    "name": "Independence Day",
+    "nameUrdu": "جشن آزادی",
+    "date": "2027-08-14",
+    "year": 2027,
+    "type": "public",
+    "category": "national",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Celebration of 80th Independence Day of Pakistan."
+  },
+  {
+    "id": "pk-milad-2027",
+    "name": "Eid Milad-un-Nabi (12 Rabi-ul-Awwal)",
+    "nameUrdu": "عید میلاد النبی ﷺ",
+    "date": "2027-08-15",
+    "year": 2027,
+    "type": "public",
+    "category": "religious",
+    "isLunar": true,
+    "isConfirmed": false,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Birthday of the Prophet Muhammad ﷺ (tentative estimate)."
+  },
+  {
+    "id": "pk-iqbal-2027",
+    "name": "Iqbal Day",
+    "nameUrdu": "یوم اقبال",
+    "date": "2027-11-09",
+    "year": 2027,
+    "type": "public",
+    "category": "national",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "National holiday honoring Dr. Allama Muhammad Iqbal."
+  },
+  {
+    "id": "pk-quaid-xmas-2027",
+    "name": "Quaid-e-Azam Day & Christmas",
+    "nameUrdu": "یوم قائد اعظم اور کرسمس",
+    "date": "2027-12-25",
+    "year": 2027,
+    "type": "public",
+    "category": "national",
+    "isLunar": false,
+    "isConfirmed": true,
+    "provinces": [
+      "ALL"
+    ],
+    "description": "Birthday of Quaid-e-Azam Muhammad Ali Jinnah and Christmas celebrations."
+  }
+]
