@@ -1,6 +1,6 @@
 {
   "name": "pakistan-holidays",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Official and gazetted public, bank, and provincial holidays in Pakistan with verified Ruet-e-Hilal lunar dates and business days calculator.",
   "type": "module",
   "main": "./dist/index.cjs",
